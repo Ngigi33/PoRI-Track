@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "306319549768",
+    "firebase_url": "https://mushroom-monitoring-database-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mushroom-monitoring-database",
+    "storage_bucket": "mushroom-monitoring-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306319549768:android:c76c8a797fb2c8096aff7d",
+        "android_client_info": {
+          "package_name": "com.mushroommonitoring.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKAfwuXbXCkD-Ce1dwWvP1fDZoRQzIQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
